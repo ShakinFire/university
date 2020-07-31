@@ -1,0 +1,49 @@
+===================== TASK 1 =====================
+./6tes2.ts
+./6tef2.js
+===================== TASK 2 =====================
+./testing
+===================== TASK 3 =====================
+./26bz.ts
+./26bf)
+===================== TASK 4 =====================
+./ test
+===================== TASK 5 =====================
+./georgienevatgmail.co
+===================== TASK 6 =====================
+./.asd
+===================== TASK 7 =====================
+./georgi.asdf
+./desi.qwer
+===================== TASK 8 =====================
+/Users/gene0001/personal/uni/unix-commands-sandbox/.asd
+/Users/gene0001/personal/uni/unix-commands-sandbox/6tes2.ts
+/Users/gene0001/personal/uni/unix-commands-sandbox/6test.js
+/Users/gene0001/personal/uni/unix-commands-sandbox/6test2.ts
+/Users/gene0001/personal/uni/unix-commands-sandbox/test-file.txt
+/Users/gene0001/personal/uni/unix-commands-sandbox/sandbox.sh
+/Users/gene0001/personal/uni/unix-commands-sandbox/testing.ts
+/Users/gene0001/personal/uni/unix-commands-sandbox/result.txt
+/Users/gene0001/personal/uni/unix-commands-sandbox/georgi.asdf
+/Users/gene0001/personal/uni/unix-commands-sandbox/26bz.ts
+/Users/gene0001/personal/uni/unix-commands-sandbox/asd.txt
+/Users/gene0001/personal/uni/unix-commands-sandbox/testing
+/Users/gene0001/personal/uni/unix-commands-sandbox/georgienevatgmail.co222
+/Users/gene0001/personal/uni/unix-commands-sandbox/testoutput.txt
+/Users/gene0001/personal/uni/unix-commands-sandbox/6tef2.js
+/Users/gene0001/personal/uni/unix-commands-sandbox/26bf)
+/Users/gene0001/personal/uni/unix-commands-sandbox/ test
+/Users/gene0001/personal/uni/unix-commands-sandbox/typescript-file.ts
+/Users/gene0001/personal/uni/unix-commands-sandbox/georgienevatgmail.co
+/Users/gene0001/personal/uni/unix-commands-sandbox/26bb)
+/Users/gene0001/personal/uni/unix-commands-sandbox/top.txt
+/Users/gene0001/personal/uni/unix-commands-sandbox/26ba)
+/Users/gene0001/personal/uni/unix-commands-sandbox/desi.qwer
+===================== TASK 9 =====================
+The example is for root because I haven't creatd a user with name Ivan
+root:*:0:0:System Administrator:/var/root:/bin/sh
+===================== TASK 10 =====================
+User already exists.
+This will error out because 'useradd' is not working on mac but that's the correct command for unix
+===================== TASK 17 =====================
+     521
